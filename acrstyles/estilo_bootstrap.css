@@ -1,0 +1,14 @@
+h1{
+	background-color: #0E4795;
+	text-align: center;
+	height: 100px;
+	color: #EF2A31;
+	border-radius: 20px;
+}
+.boton{
+	background-color: #EF2A31;
+}
+.enviar{
+	background-color: #0E4795;
+	color: white;
+}
